@@ -1,4 +1,4 @@
-This is my Power Bi project worked on Adventure work Sales Data added the dataset in the repo.
+This is my Power Bi project worked on Adventure work Sales Data added the dataset in the git repo.
 
 Performed Cleaning and Formatting of data in Power Query and Loaded in Power Bi Desktop
 
