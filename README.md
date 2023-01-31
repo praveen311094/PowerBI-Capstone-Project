@@ -10,7 +10,7 @@ In Power Bi my favorite visuals are:
 
 Line Chart - To see the trend where we are standing in business now
 
-Pie Chart - To know the how much percentage of area occupied
+Pie Chart - To know the how much percentage of data occupied
 
 Guage Visual - To check the target vs actual status
 
