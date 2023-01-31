@@ -8,7 +8,7 @@ With the help of Visualizations pane built interactive visuals from the data loa
 
 In Power Bi my favorite visuals are:
 
-Line Chart - To see the trend where we are standing in business now*
-Pie Chart - To know the how much percentage of area occupied*
-Guage Visual - To check the target vs actual status*
-AI Visuals especially Key Influencers where we can check which factors are mainly impacting towards profit or loss*
+/Line Chart - To see the trend where we are standing in business now
+/Pie Chart - To know the how much percentage of area occupied
+/Guage Visual - To check the target vs actual status
+/AI Visuals especially Key Influencers where we can check which factors are mainly impacting towards profit or loss
