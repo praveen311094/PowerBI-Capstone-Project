@@ -1,17 +1,7 @@
-This is my Power Bi project worked on Adventure work Sales Data added the dataset in the git repo.
+The aim of the project was to create a report using default visuals, AI visuals, etc., to get key insights from the business which helps in strategic planning for the future.
 
-Performed Cleaning and Formatting of data in Power Query and Loaded in Power Bi Desktop
+Extracted data from Excel, performed various transformations in Power Query and injected it into the Power BI Desktop.
 
-Build relationships among the tables in the modeling tab and with the help of data view we can inspect, explore, and understand data in our Power BI Desktop model
+Designed a Star Schema data model, performed calculations using DAX functions created Quick Measures also Implemented Row-level-Security, and published BI report to Power BI Service in order to create a Dashboard.
 
-With the help of Visualizations pane built interactive visuals from the data loaded 
-
-In Power Bi my favorite visuals are:
-
-Line Chart - To see the trend where we are standing in business now
-
-Pie Chart - To know the how much percentage of data occupied
-
-Guage Visual - To check the target vs actual status
-
-AI Visuals especially Key Influencers where we can check which factors are mainly impacting towards profit or loss
+Based on the report, the United States, Canada, and Australia were the top 3 countries with the highest number of sales, and bikes are the highest-selling category
